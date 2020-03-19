@@ -1,4 +1,4 @@
-package com.envy.collections.lists.arrayList;
+package com.envy.collections;
 
 import org.junit.Test;
 
